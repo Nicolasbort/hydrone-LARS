@@ -8,6 +8,7 @@ git clone https://github.com/Nicolasbort/hydrone-LARS.git
 git clone https://github.com/ethz-asl/rotors_simulator.git
 git clone https://github.com/ethz-asl/mav_comm.git
 git clone https://github.com/OctoMap/octomap_ros.git
+sudo apt install libgoogle-glog-dev
 cd ..
 catkin_make
 </pre>
