@@ -1,0 +1,5 @@
+<launch>    
+    <node name="mapping_task" pkg="mapping_task" type="mapping_task.py" output="screen" />
+    <!-- <node name="base_detector" pkg="mapping_task" type="base_detector.py" output="screen" /> -->
+    <node name="base_detector" pkg="mapping_task" type="base_detector" output="screen" />
+</launch>

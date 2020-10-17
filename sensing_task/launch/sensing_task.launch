@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="sensing_task" type="sensors_detector.py" name="sensors_detector" output="screen" />
+  <node pkg="sensing_task" type="sensing_task.py" name="sensing_task" output="screen" />
+</launch>
