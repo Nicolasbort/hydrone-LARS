@@ -16,7 +16,7 @@ catkin_make
 ## Installing the gazebo models:
 
 
-Move the models from `~/hydrone_workspace/src/hydrone-LARS/hydrone_aerial_gazebo/models` to `~/.gazebo/models`
+Move the models from `~/hydrone_workspace/src/hydrone-LARS/hydrone_aerial/hydrone_aerial_gazebo/models` to `~/.gazebo/models`
 
 
 ## How to run the simulation environment:
