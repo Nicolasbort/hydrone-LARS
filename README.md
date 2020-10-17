@@ -26,7 +26,7 @@ Move the models from `~/your_workspace/src/hydrone_aerial_gazebo/models` to `~/.
 
 * Sensing task:
 
-`roslaunch hydrone_aerial_gazebo hydrone_aerial_sensorng.launch`
+`roslaunch hydrone_aerial_gazebo hydrone_aerial_sensoring.launch`
 
 * Inspection task:
 
