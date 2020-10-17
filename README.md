@@ -5,6 +5,9 @@
 <pre>
 mkdir -p ~/hydrone_workspace/src && cd ~/hydrone_workspace/src
 git clone https://github.com/Nicolasbort/hydrone-LARS.git
+git clone https://github.com/ethz-asl/rotors_simulator.git
+git clone https://github.com/ethz-asl/mav_comm.git
+git clone https://github.com/OctoMap/octomap_ros.git
 cd ..
 catkin_make
 </pre>
