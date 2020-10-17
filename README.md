@@ -4,7 +4,7 @@
 
 <pre>
 cd ~/your_workspace/src
-git clone https://github.com/Nicolasbort/hydrone-LARC.git
+git clone https://github.com/Nicolasbort/hydrone-LARS.git
 cd ..
 catkin_make
 </pre>
@@ -13,7 +13,7 @@ catkin_make
 ## Installing the gazebo models:
 
 
-Move the models from `~/your_workspace/src/hydrone_aerial_gazebo/models` to `~/.gazebo/models`
+Move the models from `~/your_workspace/src/hydrone-LARS/hydrone_aerial_gazebo/models` to `~/.gazebo/models`
 
 
 ## How to run the simulation environment:
